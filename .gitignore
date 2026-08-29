@@ -1,0 +1,6 @@
+cmd/  
+etc/  
+usr/  
+mingw64/  
+*.zip  
+*.7z* 
